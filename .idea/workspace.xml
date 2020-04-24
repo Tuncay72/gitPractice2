@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd7a8035-aab2-4c63-ab16-09d4203684a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/gitPractice2/META-INF/gitPractice2.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/gitPractice2/day1/AllGood.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/AllGood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gitPractice2/day1/GitFriday.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gitPractice2/day1/HelloGitWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/GitFriday.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/HelloGitWorld.java" beforeDir="false" />
-    </list>
+    <list default="true" id="bd7a8035-aab2-4c63-ab16-09d4203684a0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
